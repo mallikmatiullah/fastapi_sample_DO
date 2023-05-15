@@ -1,1 +1,1 @@
-# fastapi_sample_DO
+# digitalocean-fastapi-template

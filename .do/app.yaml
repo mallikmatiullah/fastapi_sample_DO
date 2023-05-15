@@ -1,0 +1,6 @@
+name: digitalocean-fastapi-template
+services:
+- name: web
+  github:
+    repo: PixelPunk2077/digitalocean-fastapi-template
+    branch: main
