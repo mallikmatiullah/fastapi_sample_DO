@@ -1,6 +1,6 @@
-name: digitalocean-fastapi-template
+name: fastapi_sample_DO
 services:
 - name: web
   github:
-    repo: PixelPunk2077/digitalocean-fastapi-template
+    repo: mallikmatiullah/fastapi_sample_DO
     branch: main
