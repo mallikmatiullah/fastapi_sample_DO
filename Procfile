@@ -1,2 +1,1 @@
-uvicorn app:app --uds /run/uvicorn.sock --workers 2 --worker-tmp-dir /dev/shm --proxy-headers
-
+web: uvicorn --worker-tmp-dir /dev/shm --config uvicorn_config.py app:app
