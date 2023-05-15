@@ -1,7 +1,0 @@
-spec:
-  name: fastapi_sample_DO
-  services:
-  - name: web
-    git:
-      branch: main
-      repo_clone_url: https://github.com/mallikmatiullah/fastapi_sample_DO.git
